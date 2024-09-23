@@ -14,18 +14,6 @@ This implementation ensures efficient and effective maze-solving capabilities su
 ## Algorithm in Action
 
 ![Maze Solver in Action 1](<mmsRunningPic/Screenshot (48).png>)
+
+
 ![Maze Solver in Action 2](<mmsRunningPic/Screenshot (50).png>)
-
-# Maze Solver Algorithm
-This project implements a maze-solving algorithm for a micromouse. It utilizes the flood fill algorithm to efficiently navigate and solve mazes. The algorithm is designed to find the most optimal path for the maze-solving obstacle avoidance bot without the need to traverse all cells on the map. It can determine the optimal path in a single run, enabling the bot to complete the fast run quickly.
-
-Key features include:
-- Ability to run on a variety of unseen maps.
-- Overcomes limitations of the LSRB and RSRB algorithms.
-- More efficient than Depth-First Search (DFS) and A* algorithms for unseen mazes.
-
-This implementation ensures efficient and effective maze-solving capabilities for various applications.
-
-# Algorithm in action
-![alt text](<mmsRunningPic/Screenshot (48).png>)
-![alt text](<mmsRunningPic/Screenshot (50).png>)
